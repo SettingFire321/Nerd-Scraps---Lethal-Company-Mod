@@ -1,4 +1,4 @@
-﻿This mod adds some fun new scraps to the game that you can collect and sell (or decorate ;D). Every scrap has a chance to spawn on EVERY VANILLA moon. Every scrap has their own sound when interacted with!
+This mod adds some fun new scraps to the game that you can collect and sell (or decorate ;D). Every scrap has a chance to spawn on EVERY VANILLA moon. Every scrap has their own sound when interacted with!
 
 List of Scraps :
 
