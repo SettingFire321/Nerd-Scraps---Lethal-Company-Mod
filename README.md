@@ -6,14 +6,15 @@ This mod adds some fun new scraps to the game that you can collect and sell (or 
 
 [List of Scraps] -------------------------------------------
 
+[LEGEND]
 C = Conductive
 2 = 2 Hands
 
-    - GameCube (2 Variants) - C
-    - Question Mark Block - C 2
-    - Wii Remote
-    - Poké Ball - C
-    - Mario Kart Wii Star Cup Trophies (3 Variants) - All C & 2
+- GameCube (2 Variants) - C
+- Question Mark Block - C 2
+- Wii Remote
+- Poké Ball - C
+- Mario Kart Wii Star Cup Trophies (3 Variants) - All C & 2
 -----------------------------------------------------------
 
 [Version History] --------------------------------------
@@ -42,13 +43,13 @@ V1.0.0
 ----------------------------------------------------
 
 [Next Version Plans] ---------------------------------
-     - Gag scraps? (With strategic value???)
-     - Melee scraps?
+- Gag scraps? (With strategic value???)
+- Melee scraps?
 ----------------------------------------------------
 
 [Known Issues] --------------------------------------
-     - Wii Remote Button textures are a little miscolored. No idea how to fix this (yet???) but it should not be THAT noticeable I think... :^)
-     - The pegs on the ? Blocks are yellow, not white. Hopefully that doesn't bother you! Wait, you weren't going to notice until I brought it up? Oh... whoops :D
+- Wii Remote Button textures are a little miscolored. No idea how to fix this (yet???) but it should not be THAT noticeable I think... :^)
+- The pegs on the ? Blocks are yellow, not white. Hopefully that doesn't bother you! Wait, you weren't going to notice until I brought it up? Oh... whoops :D
 ----------------------------------------------------
 
 
