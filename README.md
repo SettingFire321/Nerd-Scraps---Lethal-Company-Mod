@@ -9,25 +9,27 @@ This mod adds some fun new scraps to the game that you can collect and sell (or 
 [List of Scraps]
 
 [Legend]
+
 C = Conductive
+
 1 = 1 Hand
+
 2 = 2 Hands
+
 S = Horn mechanic (Left click = sound)
+
 M = Melee weapons >:)
 
-- GameCube (2 Variants) - Both C
- 1
+- GameCube (2 Variants) - Both C 1
 - Mario Kart Wii Star Cup Trophies (3 Variants) - All C & 2
 - Master Sword - C 1 M
 - Mushroom - 1
-- Poké Ball - C
- 1
+- Poké Ball - C 1
 - Question Mark Block - C 2
 - Smash Trophy Base - C 1
 - Smash Trophy Kirby - C 2
 - Toad - S 1
-- Wii Remote
- - 1
+- Wii Remote 1
 - Yoshi Egg - 2
 -----------------------------------------------------------
 
@@ -52,6 +54,7 @@ V1.1.0
 
 - Others:
      - Removed screenshots folder from installation folder as it took up space. Pictures are still on GitHub
+
 --
 
 V1.0.2 
@@ -61,6 +64,7 @@ V1.0.2
 - Slightly increased [question mark block]'s spawn rate
 - Decreased spawn rates of [Star Cup Trophy Silver] and [Star Cup Trophy Gold] for balancing purposes.
 - Fixed a problem where the player model uses 1 hand for 2-handed scraps. This screwed up with the holding positions so it might looks a bit off in game
+
 --
 
 V1.0.0 
