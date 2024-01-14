@@ -46,8 +46,8 @@ V1.1.4
 
 V1.1.1
 - [Super Mushroom] now acts as a whoopie cushion. Going over it will play the power up sound
-- Changed the [Smash Trophy BASE] to have a universal spawn weight of 1 so it should work on ALL planets included modded ones
-- Changed the [Smash Trophy KIRBY] to have a universal spawn weight of 4 so it should work on ALL planets included modded ones
+- Changed the [Smash Trophy BASE] to have a universal spawn weight of 1 so it should work on ALL planets including modded ones
+- Changed the [Smash Trophy KIRBY] to have a universal spawn weight of 4 so it should work on ALL planets including modded ones
 
 --
 
