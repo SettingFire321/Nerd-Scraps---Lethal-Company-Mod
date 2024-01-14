@@ -1,6 +1,6 @@
 Nerd Scraps
 
-V1.1.1
+V1.1.4
 
 By SettingFire321 (Keyble)
 
@@ -16,27 +16,33 @@ C = Conductive
 
 2 = 2 Hands
 
-S = Horn mechanic (Left click = sound)
+S = Horn Mechanic (Left click = Sound)
 
-M = Melee weapons >:)
+M = Melee Weapons >:)
 
-- GameCube (2 Variants) - Both C
- 1
+W = Whoopie Cushion Mechanic
+
+- GameCube (2 Variants) - Both C 1
 - Mario Kart Wii Star Cup Trophies (3 Variants) - All C & 2
 - Master Sword - C 1 M
-- Mushroom - 1
-- Poké Ball - C
- 1
+- Mushroom - 1 W
+- Poké Ball - C 1
 - Question Mark Block - C 2
+- Ring - C 1 W
 - Smash Trophy Base - C 1
 - Smash Trophy Kirby - C 2
 - Toad - S 1
-- Wii Remote
- - 1
+- Wii Remote 1
 - Yoshi Egg - 2
 -----------------------------------------------------------
 
 [Version History]
+
+V1.1.4
+- Fixed a MAJOR issue where the newest batch of items (except for the [Master Sword]) had their spawn rates overwritten to 100 (which is BAD)
+- Added the [Ring] from Sonic as an apology
+
+--
 
 V1.1.1
 - [Super Mushroom] now acts as a whoopie cushion. Going over it will play the power up sound
@@ -146,6 +152,11 @@ Question Mark Block Trophy
 Model by Nintendo
 Ripped by Peardian
 From Super Mario Galaxy
+
+Rings
+Model by Sega
+Ripped by JaysonJeanChannel
+From Sonic Generations
 
 Super Mushroom
 Model by Nintendo
