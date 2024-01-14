@@ -9,6 +9,7 @@ This mod adds some fun new scraps to the game that you can collect and sell (or 
 [List of Scraps]
 
 [Legend]
+
 C = Conductive
 1 = 1 Hand
 2 = 2 Hands
@@ -32,6 +33,7 @@ M = Melee weapons >:)
 -----------------------------------------------------------
 
 [Version History]
+
 V1.1.1
 - [Super Mushroom] now acts as a whoopie cushion. Going over it will play the power up sound
 - Changed the [Smash Trophy BASE] to have a universal spawn weight of 1 so it should work on ALL planets included modded ones
