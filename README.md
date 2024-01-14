@@ -11,9 +11,13 @@ This mod adds some fun new scraps to the game that you can collect and sell (or 
 [Legend]
 
 C = Conductive
+
 1 = 1 Hand
+
 2 = 2 Hands
+
 S = Horn mechanic (Left click = sound)
+
 M = Melee weapons >:)
 
 - GameCube (2 Variants) - Both C
