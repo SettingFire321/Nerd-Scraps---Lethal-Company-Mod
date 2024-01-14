@@ -1,6 +1,6 @@
 Nerd Scraps
 
-V1.1.0
+V1.1.1
 
 By SettingFire321 (Keyble)
 
@@ -9,31 +9,34 @@ This mod adds some fun new scraps to the game that you can collect and sell (or 
 [List of Scraps]
 
 [Legend]
-
 C = Conductive
-
 1 = 1 Hand
-
 2 = 2 Hands
-
 S = Horn mechanic (Left click = sound)
-
 M = Melee weapons >:)
 
-- GameCube (2 Variants) - Both C 1
+- GameCube (2 Variants) - Both C
+ 1
 - Mario Kart Wii Star Cup Trophies (3 Variants) - All C & 2
 - Master Sword - C 1 M
 - Mushroom - 1
-- Poké Ball - C 1
+- Poké Ball - C
+ 1
 - Question Mark Block - C 2
 - Smash Trophy Base - C 1
 - Smash Trophy Kirby - C 2
 - Toad - S 1
-- Wii Remote 1
+- Wii Remote
+ - 1
 - Yoshi Egg - 2
 -----------------------------------------------------------
 
 [Version History]
+V1.1.1
+- [Super Mushroom] now acts as a whoopie cushion. Going over it will play the power up sound
+- Changed the [Smash Trophy BASE] to have a universal spawn weight of 1 so it should work on ALL planets included modded ones
+- Changed the [Smash Trophy KIRBY] to have a universal spawn weight of 4 so it should work on ALL planets included modded ones
+--
 V1.1.0
 - Added:
      - Master Sword
@@ -49,14 +52,12 @@ V1.1.0
           -  A cute egg! Pretty heavy! What could be inside? I think I can hear something!
 
 - Bug Fixes:
-     - For balancing purposes and because there are more scraps being added, teh value of [Wii Eemote] has been lowered by a little bit
+     - For balancing purposes and because there are more scraps being added, the value of [Wii Remote] has been lowered by a little bit
      - Improved how the player grabs the [Wii Remote]
 
 - Others:
      - Removed screenshots folder from installation folder as it took up space. Pictures are still on GitHub
-
 --
-
 V1.0.2 
 - Added a new Gamecube white variant (worth the same)
 - Fixed an issue where the [poke ball] was slightly in the air when resting
@@ -64,9 +65,7 @@ V1.0.2
 - Slightly increased [question mark block]'s spawn rate
 - Decreased spawn rates of [Star Cup Trophy Silver] and [Star Cup Trophy Gold] for balancing purposes.
 - Fixed a problem where the player model uses 1 hand for 2-handed scraps. This screwed up with the holding positions so it might looks a bit off in game
-
 --
-
 V1.0.0 
 - RELEASED
 - None of the scraps are interactable (yet???)
@@ -100,7 +99,7 @@ V1.0.0
 
 [Known Issues]
 
-- [Wii Remote] Button textures are a little miscolored. No idea how to fix this (yet???) but it should not be THAT noticeable I think... :^)
+- [Wii Remote] Button textures are a little discolored. No idea how to fix this (yet???) but it should not be THAT noticeable I think... :^)
 - The pegs on the [Question Mark Block] are yellow, not white. Hopefully that doesn't bother you! Wait, you weren't going to notice until I brought it up? Oh... whoops :D
 - Small items such as the [Poke Ball] can sometimes spawn in places such that they become ungrabbable
 - [Toad]'s "BUP" can reach pitches so low, the earth's crack under pressure. The "min pitch" setting doesn't work on my end. Most likely will later
